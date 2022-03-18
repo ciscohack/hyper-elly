@@ -1,0 +1,10 @@
+{
+  "name": "hyper-elly",
+  "version": "1.0.0",
+  "description": "Nostalgic brown theme for Hyper terminal",
+  "main": "index.js",
+  "repository": "https://github.com/ulwlu/hyper-elly.git",
+  "author": "ulwlu",
+  "license": "MIT",
+  "dependencies": {}
+}
